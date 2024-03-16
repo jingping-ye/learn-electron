@@ -55,7 +55,7 @@ D:\software\download\ffmpeg-master-latest-win64-gpl\bin
 - 因为renderer process和main process是两个独立的进程，双方无法直接通信。preload.js在此处则承担两个进程之间通信的桥梁。类似于第三方传话的形式，实现render process和main process的间接通信。
 
 二、技术要点
-1. 读取视频信息 
+1. 读取视频信息技术
 使用 ffmepg+fluent-ffmpeg
 
 2. 进程间通信
