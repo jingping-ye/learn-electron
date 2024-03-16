@@ -56,6 +56,7 @@ D:\software\download\ffmpeg-master-latest-win64-gpl\bin
 
 二、技术要点
 1. 读取视频信息
+使用 ffmepg+fluent-ffmpeg
 
 2. 进程间通信
 参考[Inter-Process Communication](https://www.electronjs.org/docs/latest/tutorial/ipc)
