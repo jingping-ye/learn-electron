@@ -91,7 +91,7 @@ ipcMain.handle("messsage:send",(event, message)=>{
 
 
 
-三、实现功能
+三、实现功能(参考代码如下)
 1. index.html
 ```html
 <!DOCTYPE html>
